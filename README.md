@@ -9,3 +9,5 @@
 [komentorivi.txt](https://github.com/mcaarni/ot-harjoitustyo2021/blob/master/laskarit/viikko1/komentorivi.txt)
 
 tulevat linkit...
+
+Lisää vaikeuksia
