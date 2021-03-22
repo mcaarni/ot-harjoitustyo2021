@@ -1,0 +1,213 @@
+mcaarni@Muru2:~/ot_viikko1/tiedostoja$ git log --stat | cat
+commit f9fde7ca490610bf0cb5a35b1ffbd40c5dd7db87
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 20:55:30 2021 +0200
+
+    s
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 17b3ed0ee1591003bca1de02753cf0bfec649d8f
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 20:52:10 2021 +0200
+
+    lisää harjoitusta
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4888cc3cd0979ec83d386a044f45e32907635dfe
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 20:16:24 2021 +0200
+
+    lisää
+
+ eka.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 975277dca3da2cf00e258af1b2ac148ead6f446f
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 20:07:47 2021 +0200
+
+    vittusaatana
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 702288ab3e70e8dee23f65884cc6bde11b13f48b
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 20:02:09 2021 +0200
+
+    toinen poisto
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0f475724fa5893a5036db78a1756fdc166e2cdf9
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:53:36 2021 +0200
+
+    lisää leikkimist
+
+ stuff/testi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bc0bc955df38a8d53eacce87e545c22bbffc5711
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:50:13 2021 +0200
+
+    kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 09af2eba1dd99e4bfd839a942ec4e5ceed03ebaa
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:48:53 2021 +0200
+
+    muutos
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 5022b112556c26f03e558bc348ee66b8e1e9ee34
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:32:10 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ab632301ee5e50a902db04bb1ce1bc4793ce06cf
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:31:07 2021 +0200
+
+    fix
+
+ eka.txt           | 7 -------
+ kolmas.txt        | 8 --------
+ stuff/neljas.txt  | 0
+ tiedosto.txt      | 0
+ tiedostoja/file22 | 0
+ tiedostoja/file3  | 0
+ 6 files changed, 15 deletions(-)
+
+commit fcfbc9fad8cf8927e8f08126256157435f932a78
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Mon Mar 22 19:28:53 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8f0ea66986de37b6e098ae90680fe0a715111a10
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 12:14:01 2020 +0200
+
+    Ekoja harjoitteluja
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0231fcaa8b89adf433a5b1ad83949bc9ddc24d2d
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 12:09:32 2020 +0200
+
+    uusi kansio
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit afd95f7a6ef6375a7c12b96d3e656a93eebc8d97
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 12:01:59 2020 +0200
+
+    lisää muutoksia tiedostoihin
+
+ eka.txt    | 7 +++++--
+ kolmas.txt | 3 +++
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+
+commit 17015ee536e4dcf33c24ca14fbd428c0e51ce691
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 11:59:29 2020 +0200
+
+    nimen muutos2
+
+ tiedosto.txt | 4 ----
+ 1 file changed, 4 deletions(-)
+
+commit 8541af7d97305e3a42cacb6f61f726a96c95c721
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 11:59:11 2020 +0200
+
+    nimen muutos
+
+ eka.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit eb5e3ee528d50d09598fd4dec0af6fbe2b6e587c
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Tue Nov 3 11:57:20 2020 +0200
+
+    toisen poisto
+
+ toinen.txt | 4 ----
+ 1 file changed, 4 deletions(-)
+
+commit b15294ad1f508ff6a481f5de5d2e273770c0e1fe
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Sun Nov 1 19:15:56 2020 +0200
+
+    Uusi kansio
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ba0a4cc9fdab822b61c63079247c4a465b4fbc9c
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Sun Nov 1 19:14:04 2020 +0200
+
+    Toisen ja Kolmannen muutokset
+
+ kolmas.txt | 5 +++++
+ toinen.txt | 4 ++++
+ 2 files changed, 9 insertions(+)
+
+commit 8e9fe80978c0c42ecbf7187d635ab4f689612946
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Sun Nov 1 19:12:25 2020 +0200
+
+    kolmas committaus
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2ccb86d2fb19c459be1339967f26ca2fc625b64f
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Sun Nov 1 17:56:16 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 4 ++++
+ toinen.txt   | 0
+ 2 files changed, 4 insertions(+)
+
+commit 1b8e3204c6ce15f624b0ddd1609b59a1f408e963
+Author: Aarni <aarnimanninen7@gmail.com>
+Date:   Sun Nov 1 17:52:25 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
