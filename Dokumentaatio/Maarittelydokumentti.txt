@@ -1,0 +1,11 @@
+Suunnitelmani on tehdä suht yksinkertainen kirjautumisjärjestelmä jonka avulla pystyy kirjaamaan ylös muistioita 
+sekä merkkaamaan työaikamittarin mukaan tulo- ja menoaikoja.
+
+- Kirjautumissysteemi joka toimii käyttäjänimen ja salasanan kanssa
+- Uuden tunnuksen luonti
+- Salasanan vaihtaminen/unohtuneen salasanan vaihtaminen
+- Tilin poistaminen
+- Muistilistan luominen, muokkaaminen ja poistaminen
+- Tuloajan merkintä
+- Lopetusajan merkintä
+
