@@ -1,0 +1,6 @@
+13.4.2021 klo 19-24
+- Ohjelman suunnittelua paperille
+- Projektin aloittaminen Netbeansilla JavaFX:llä
+
+20.4.2021 klo 12-16
+- Sain tehtyä alustavan fxml pohjan ohjelman graafiselle esitykselle
